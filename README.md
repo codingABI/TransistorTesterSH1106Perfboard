@@ -21,7 +21,7 @@ My [perfboard layout](#perfboard) and [3d STL print files](#STL) are licensed un
 
 My [schematic](#schematic) based on [ttester.pdf](https://github.com/Mikrocontroller-net/transistortester/blob/master/Doku/trunk/pdftex/german/ttester.pdf) and is licensed under the European Union Public License v1.2 (EUPL v1.2), because Karl-Heinz Kübbeler at https://github.com/kubi48/TransistorTester-source use this license. See the [eupl_v1.2_en.pdf](Schematic/eupl_v1.2_en.pdf) for details.
 
-The code and idea are from Karl-Heinz Kübbeler and Markus Frejek:
+The code and idea are from Karl-Heinz Kübbeler and Markus Frejek (Thank you all):
 - https://github.com/Mikrocontroller-net/transistortester
 - https://www.mikrocontroller.net/articles/AVR_Transistortester
 
