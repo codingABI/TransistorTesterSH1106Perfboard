@@ -14,6 +14,8 @@ Code and idea from Karl-Heinz Kübbeler and Markus Frejek (Thank you all):
 
 ![Case backside](assets/images/CaseBackside.jpg)
 
+Watch the device on [YouTube](https://youtu.be/Kl9WpyAFLFI)
+
 ## License and copyright
 My [perfboard layout](#perfboard) and [3d STL print files](#STL) are licensed under the terms of CC0 [Copyright (c) 2026 codingABI](LICENSE). 
 
