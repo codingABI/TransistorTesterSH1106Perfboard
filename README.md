@@ -2,6 +2,8 @@
 
 A battery driven TransistorTester with a SH1106 display, rotary encoder on a perfboard.
 
+Watch the device on [YouTube](https://youtu.be/Kl9WpyAFLFI)
+
 Code and idea from Karl-Heinz Kübbeler and Markus Frejek (Thank you all):
 - https://github.com/Mikrocontroller-net/transistortester-
 - https://www.mikrocontroller.net/articles/AVR_Transistortester
@@ -13,8 +15,6 @@ Code and idea from Karl-Heinz Kübbeler and Markus Frejek (Thank you all):
 ![Perfboard](assets/images/Perfboard.jpg)
 
 ![Case backside](assets/images/CaseBackside.jpg)
-
-Watch the device on [YouTube](https://youtu.be/Kl9WpyAFLFI)
 
 ## License and copyright
 My [perfboard layout](#perfboard) and [3d STL print files](#STL) are licensed under the terms of CC0 [Copyright (c) 2026 codingABI](LICENSE). 
